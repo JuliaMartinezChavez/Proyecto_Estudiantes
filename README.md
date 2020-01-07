@@ -1,2 +1,2 @@
 # Proyecto_Estudiantes
-Añade, consulta y modifica datos de alumnos 
+Añade y consulta  datos de pacientes 
